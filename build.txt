@@ -1,0 +1,3 @@
+displayName = Coolo's Cloud Mod
+author = Just Req
+version = 0.1
